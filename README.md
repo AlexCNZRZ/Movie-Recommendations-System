@@ -1,2 +1,3 @@
-# Movie-Recommendations-System
-Student project using Python and Streamlit
+# :clapper: Movie Recommendations System
+
+(Coming soon...)
