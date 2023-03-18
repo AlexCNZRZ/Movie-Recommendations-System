@@ -38,7 +38,7 @@ The goal of the project revolves around these 2 topics :
 
 ## :scroll: Steps of the project
 
- - Retrieving tables (csv format) from the IMDb database [here](https://datasets.imdbws.com/) and the documentation associated [here](https://www.imdb.com/interfaces/)
+ - Retrieving tables (csv format) from the IMDb database [(here)](https://datasets.imdbws.com/) and the documentation associated [(here)](https://www.imdb.com/interfaces/)
  - Checking the integrity of the data
  - Reduce the database to the strictly necessary information
  - Define topics and define indicators around these topics
