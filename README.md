@@ -46,7 +46,7 @@ The goal of the project revolves around these 2 topics :
  - Displaying the results (analysis and recommendation system) on a web page using Streamlit
 
 NB : Our csv files were too large and we could not put them on Git. So you won't be able to run these scripts.
-However, you can have a look at our video files in the gallery section.
+However, you can have a look at our video file in the gallery section.
 
 
 ## :camera: Gallery
@@ -57,11 +57,8 @@ However, you can have a look at our video files in the gallery section.
 #### Modelisation of the raw database
 ![picture3](Pictures/database-clean-modelisation.png)
 
-#### Video of the analysis
-![video1](Videos/Analysis_Dashboard.webm)
-
 #### Video of the recommendation system
-![video2](Videos/Recommendation_System.gif)
+![video1](Videos/Recommendation_System.gif)
 
 
 ## :wrench: Tools
