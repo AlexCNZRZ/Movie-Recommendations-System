@@ -61,7 +61,7 @@ However, you can have a look at our video files in the gallery section.
 ![video1](Videos/Analysis_Dashboard.webm)
 
 #### Video of the recommendation system
-![video2](Videos/Recommendation_System.mp4)
+![video2](Videos/Recommendation_System.gif)
 
 
 ## :wrench: Tools
